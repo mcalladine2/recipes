@@ -3,5 +3,4 @@
 - spring onions
 - potato
 # Instructions
-- shell the peas
-- add cold water and soak
+- shell the peas and put them into a pan.
