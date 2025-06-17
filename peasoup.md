@@ -3,4 +3,4 @@
 - spring onions
 - potato
 # Instructions
-- put peas into a pan.
+- shell the peas
